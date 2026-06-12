@@ -10,3 +10,6 @@ The primary goal of this project is to evaluate the similarity between cuckoo eg
 ## Input/Output
 **Input:** Pairs of images representing cuckoo and host eggs with similarity grades. <br>
 **Output:** A trained model for predicting similarity, similarity scores for test images, and visualizations of the results.
+## Dataset
+Visit [Link](https://drive.google.com/drive/folders/1TKBZJ1dyS87aoSb5hhke-UP_7wpxADMd?usp=drive_link) to the dataset  containing images for Cuckoo Eggs, a table for pairs, and a table of  image names.
+
